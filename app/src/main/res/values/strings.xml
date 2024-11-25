@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">SquadUp</string>
+    <string name="copyright">\u00A9 2022 SquadUp Inc.</string>
+
+    <string name="module_chats">Displays recent conversations and enables messaging with users or groups.</string>
+    <string name="component_chats">Shows a screen of recent conversations.</string>
+    <string name="component_chats_list">Displays a scrollable list of recent conversations in the app.</string>
+    <string name="conversation_list_item">Reusable component to render individual conversation items.</string>
+
+    <string name="module_groups">Displays group lists, supports search, and allows starting conversations.</string>
+    <string name="component_groups">Shows a list of groups with search functionality.</string>
+    <string name="component_groups_list">Renders a scrollable list of all available groups.</string>
+    <string name="component_create_groups">Allows creation of public, private, or password-protected groups. Tap here for details.</string>
+    <string name="data_item_group">Displays group items with Avatar, Status, Title, and Subtitle.</string>
+    <string name="join_protected_group">Joins password-protected groups. Tap here to learn more.</string>
+    <string name="group_member">Displays members of a group. Tap here for details.</string>
+    <string name="add_member">Adds users to a group. Tap here to learn more.</string>
+    <string name="transfer_ownership">Transfers group ownership between users. Tap here for details.</string>
+    <string name="banned_members_desc">Displays the list of banned group members. Tap here to learn more.</string>
+    <string name="group_details">Provides information about a group. Tap here to learn more.</string>
+
+    <string name="module_users">Displays user lists, supports search, and enables conversations.</string>
+    <string name="component_users">Shows a scrollable list of app users with search functionality.</string>
+    <string name="component_user_details">Displays detailed information about a user. Tap here for details.</string>
+    <string name="data_item_user">Renders user list items with Avatar, Status, and Title.</string>
+
+    <string name="module_messages">Manages sending and receiving messages in user or group conversations. Click here for details.</string>
+    <string name="message_header">Displays user or group details using SDK objects.</string>
+    <string name="message_list">Renders a real-time list of messages with updates.</string>
+    <string name="message_composer">Supports sending text, images, videos, and custom messages.</string>
+
+    <string name="call_history_with_details_component">Displays call logs with an option to view details.</string>
+    <string name="call_history_component">Shows recent call logs in the app.</string>
+    <string name="call_details_component">Enables calls with user or group details displayed.</string>
+    <string name="call_button">Allows users to initiate calls within the app.</string>
+
+    <string name="avatar_description">Displays user or group avatars, with initials as fallback.</string>
+    <string name="statusIndicator_description">Indicates user status as online or offline.</string>
+    <string name="badgeCount_description">Shows the count of unread messages in components like conversations.</string>
+    <string name="message_receipt">Displays message states such as sent, delivered, read, or failed.</string>
+
+    <string name="data_item">Reusable list component for Users, Groups, Conversations, etc.</string>
+
+    <string name="localize_english_overview">Automatically detects and sets the user’s language based on device/browser settings.</string>
+    <string name="localize_hindi_overview">डिवाइस/ब्राउज़र सेटिंग्स के आधार पर उपयोगकर्ता की भाषा का स्वतः पता लगाता है।</string>
+    <string name="language_english">Language</string>
+    <string name="language_hindi">भाषा</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="view_hindi">देखें</string>
+    <string name="view_english">View</string>
+    <string name="sound_manager">Handles audio playback for events like incoming and outgoing messages.</string>
+    <string name="theme">Defines the style applied across UI Kit components.</string>
+
+    <string name="fill_this_field">Please complete this field.</string>
+
+    <string name="super_module_messages">Facilitates sending and receiving messages between users or groups. Click here for more details.</string>
+    <string name="super_module_groups">Lists all groups a user belongs to within the app. Click here for details.</string>
+    <string name="super_module_calls">Shows recent call history for users and groups. Click here to learn more.</string>
+    <string name="super_module_chats">Lists recent conversations for users and groups. Click here for details.</string>
+    <string name="super_module_users">Lists all users available in the app. Click here to learn more.</string>
+    <string name="module_shared">Contains reusable components like Primary, Secondary, and SDK-derived elements. Click here to learn more.</string>
+    <string name="listItem">Renders items with leading, trailing, title, and subtitle widgets. Click here for details.</string>
+    <string name="file_bubble">Displays file messages. Tap here for details.</string>
+    <string name="audio_bubble">Displays audio messages. Tap here to learn more.</string>
+    <string name="image_bubble">Displays image messages. Tap here for details.</string>
+    <string name="video_bubble">Displays video messages. Tap here for more information.</string>
+    <string name="text_bubble">Displays text messages. Tap here for details.</string>
+    <string name="media_recorder">Provides UI for recording and playing audio in chat applications.</string>
+    <string name="component_contacts">Streams app users and groups in an intuitive interface for connecting and chatting.</string>
+    <string name="message_information_des">Displays message-related details like delivery and read receipts.</string>
+    <string name="form_bubble">Renders forms within chat lists. Tap here for details.</string>
+    <string name="card_bubble">Displays cards within chat lists. Tap here for more information.</string>
+    <string name="scheduler_bubble">Displays event schedules in chat lists. Tap here for details.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="no_sample_users_available">No sample users available.</string>
+</resources>
